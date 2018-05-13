@@ -5,8 +5,11 @@ In this week lav, we are to build a honeypot server. This server is set up to ac
 HoneyPots Deployed:
 
 Dionaea
+
 pOf
+
 Snort
+
 Conpot
 
 ISSUES:
