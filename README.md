@@ -4,13 +4,10 @@ In this week lav, we are to build a honeypot server. This server is set up to ac
 
 HoneyPots Deployed:
 
-Dionaea
-
-pOf
-
-Snort
-
-Conpot
+Dionaea\n
+pOf\n
+Snort\n
+Conpot\n
 
 ISSUES:
 The set up process process or installation was long and confusing
@@ -18,9 +15,9 @@ The set up process process or installation was long and confusing
 SUMMARY:
 ![](./Question_1.gif)
 
-Dionaea(144)
-pOf(51)
-Snort(17)
-Conpot(1)
+Dionaea(144)\n
+pOf(51)\n
+Snort(17)\n
+Conpot(1)\n
 
 
